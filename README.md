@@ -6,6 +6,8 @@ Lu, Chris, Timon Willi, Alistair Letcher, and Jakob Foerster. "Adversarial Cheap
 
 [Paper](https://arxiv.org/abs/2211.11030)
 
+[Webpage](https://sites.google.com/view/adversarial-cheap-talk/home)
+
 Due to the rapid development of JAX's ecosystem it can be difficult for users to precisely set up the environment. We *highly* recommend instead using the [PureJaxRL repository](https://github.com/luchris429/purejaxrl/tree/main) to perform related research. We plan to upload a clean re-implementation of this work there. This repository is for reproducing the original results in the paper.
 
 PureJaxRL is similar to this repository in that it contains end-to-end Jax-vectorised PPO implementations. However, it differs from this repository in many ways -- it uses newer libraries that did not exist at the time that the bulk of this research was performed. In particular, [Gymnax](https://github.com/RobertTLange/gymnax/tree/main) vastly simplifies the 
